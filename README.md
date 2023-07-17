@@ -20,4 +20,4 @@ To remove your service from the Service catalog, you only need execute this comm
 
 ```
 
-if you think I've done a good job, and you think I deserve a coffee, you can invite me with [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https:// ko-fi.com/R5R4NB8VV)
+if you think I've done a good job, and you think I deserve a coffee, you can invite me with [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4NB8VV)
